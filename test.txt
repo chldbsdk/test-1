@@ -1,8 +1,2 @@
 a
-<<<<<<< HEAD
 b
-c
-d
-=======
-b
->>>>>>> parent of 86372c0 (test3)
